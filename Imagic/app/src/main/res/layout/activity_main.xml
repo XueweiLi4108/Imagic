@@ -31,4 +31,10 @@
         android:layout_height="wrap_content"
         android:text="ColorMatrix"
         android:onClick="btn_ColorMatrix" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PixelsEffect"
+        android:onClick="btn_CPixelsEffect" />
 </LinearLayout>
