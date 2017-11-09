@@ -17,11 +17,18 @@
         android:layout_height="wrap_content"
         android:text="Imagic"
         android:textSize="50dp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:layout_marginBottom="40dp"/>
     
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="PrimaryColor"
         android:onClick="btn_PrimaryColor" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ColorMatrix"
+        android:onClick="btn_ColorMatrix" />
 </LinearLayout>
